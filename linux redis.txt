@@ -1,0 +1,8 @@
+redis°²×°Ä¿Â¼usr/local/redis
+redis-server /usr/local/redis/etc/redis.conf
+redis-cli -h 192.168.110.31 -p 6379 -a vagrant
+
+.bash_profile 
+/etc/profile
+PATH
+GOPATH
